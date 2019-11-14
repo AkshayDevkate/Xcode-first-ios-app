@@ -1,5 +1,5 @@
 # Xcode-first-ios-app
-Xcode first project 10 days ios app development code with chris
+Xcode first project 10 days ios app development code with chris . [Learned from: https://codewithchris.com ]
 
 
 
